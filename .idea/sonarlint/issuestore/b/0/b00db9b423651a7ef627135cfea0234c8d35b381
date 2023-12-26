@@ -1,0 +1,9 @@
+
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ú•Ìùÿÿÿÿ8ÓŠìÊÈ1
+G	java:S106"+Replace this use of System.out by a logger.(š¾ø8ÜŠìÊÈ1
+G	java:S106"+Replace this use of System.out by a logger.(äìÎÆ8íŠìÊÈ1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8îŠìÊÈ1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ì¯îÊÈ1
